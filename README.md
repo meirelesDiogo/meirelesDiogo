@@ -19,6 +19,20 @@ Me chamo Diogo Alexandre, atualmente tenho 17 anos e sou natural de Belo Horizon
             src="https://custom-icon-badges.demolab.com/github/followers/meirelesDiogo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://wa.me/5531981087569" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Fale comigo no WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/diogo_.ale" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/@diogo_.ale-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
