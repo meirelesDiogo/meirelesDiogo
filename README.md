@@ -60,22 +60,44 @@ Tenho grande interesse por tecnologia e estou sempre buscando evoluir, explorand
 
 ### 📊 Estatísticas do GitHub
 
-<p>
+<p align="center">
+  <h3 style="margin-bottom: 10px; text-align: center;">Estatísticas Gerais</h3>
   <img 
-    align="left" 
     alt="Estatísticas do GitHub" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out; max-width: 100%;"
     src="https://github-readme-stats.vercel.app/api?username=meirelesDiogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesDiogo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
   />
 </p>
 
 ---
 
+<p align="center">
+  <h3 style="margin-bottom: 10px; text-align: center;">Linguagens Mais Usadas</h3>
+  <img 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out; max-width: 100%;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesDiogo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</p>
+
+---
+
+<p align="center">
+  <h3 style="margin-bottom: 10px; text-align: center;">Contribuições ao Longo do Ano</h3>
+  <img 
+    alt="Contribuições por ano" 
+    height="200" 
+    style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out; max-width: 100%;"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=meirelesDiogo&theme=tokyonight" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</p>
+
+---
