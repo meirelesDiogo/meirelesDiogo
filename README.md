@@ -46,29 +46,43 @@ Meu objetivo é cursar **Análise e Desenvolvimento de Sistemas** e me tornar um
 </p>
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=meirelesDiogo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
 
 <img 
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesDiogo&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meirelesDiogo&theme=tokyonight"
+width="100%"
 />
-</p>
 
-
-<p align="center">
-<img 
-src="https://streak-stats.demolab.com?user=meirelesDiogo&theme=tokyonight&hide_border=true"
-/>
 </p>
 
 ---
+
+<p align="center">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meirelesDiogo&theme=tokyonight"
+height="180"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meirelesDiogo&theme=tokyonight"
+height="180"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=meirelesDiogo&theme=tokyo-night&hide_border=true"
+width="100%"
+/>
+
+</p>
 
 ## 📈 Atividade
 
