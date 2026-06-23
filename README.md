@@ -38,14 +38,6 @@ Meu objetivo é cursar **Análise e Desenvolvimento de Sistemas** e me tornar um
 - 🎨 Bootstrap
 
 ---
-
-## 📌 Projetos
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meirelesDiogo&repo=sistema-reserva-quadras&theme=tokyonight" />
-</p>
-
----
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -77,12 +69,7 @@ height="180"
 
 <p align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=meirelesDiogo&theme=tokyo-night&hide_border=true"
-width="100%"
-/>
 
-</p>
 
 ## 📈 Atividade
 
